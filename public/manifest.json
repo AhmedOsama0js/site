@@ -1,0 +1,21 @@
+{
+  "name": "ahmed Osama",
+  "short_name": "Ahmed Osama",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "description": "Full-Stack Web Developer with experience in React.js, Node.js, and MongoDB",
+  "icons": [
+    {
+      "src": "./img/main.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./img/main.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
