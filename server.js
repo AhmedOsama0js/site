@@ -2,6 +2,9 @@ const express = require("express");
 const path = require("path");
 const app = express();
 
+// هذا السطر مهم لخدمة ملفات React (JS, CSS, وغيرها)
+app.use(express.static(path.join(__dirname, "public", "build")));
+
 app.get("/", (req, res) => {
   res.sendFile(path.join(__dirname, "public", "build/index.html"));
 });
