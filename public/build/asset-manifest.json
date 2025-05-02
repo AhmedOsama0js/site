@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a90ea979.css",
+    "main.js": "/static/js/main.709d70d6.js",
+    "static/js/310.d316f94a.chunk.js": "/static/js/310.d316f94a.chunk.js",
+    "static/js/174.c1189958.chunk.js": "/static/js/174.c1189958.chunk.js",
+    "static/js/696.2263ae27.chunk.js": "/static/js/696.2263ae27.chunk.js",
+    "static/media/Ahmed_Osama(FullStack).pdf": "/static/media/Ahmed_Osama(FullStack).85ca35354c43bd92124a.pdf",
+    "static/media/main1.png": "/static/media/main1.ddd5eba53bdb5a51b304.png",
+    "static/media/postgreSQL.png": "/static/media/postgreSQL.5a2db9aa1c190fe21d71.png",
+    "static/media/ContextAPI.png": "/static/media/ContextAPI.787787e15e74b7c77e3a.png",
+    "static/media/ReduxToolkit.png": "/static/media/ReduxToolkit.a96181ab62cd8c5d0174.png",
+    "static/media/Postman.png": "/static/media/Postman.5f0995e9d30fe6c4e715.png",
+    "static/media/redux.png": "/static/media/redux.0058a77c9269e077a82c.png",
+    "static/media/express.png": "/static/media/express.0abc604f8cc557e1ffbd.png",
+    "static/media/nodejs.png": "/static/media/nodejs.d1ba173d125aaf6d81e8.png",
+    "static/media/REST_APIs.png": "/static/media/REST_APIs.8b67b58103821b3403ee.png",
+    "static/media/WebSocket.png": "/static/media/WebSocket.f91a124825152d789d86.png",
+    "static/media/JWT.png": "/static/media/JWT.ed9ca12e51c13e92ed33.png",
+    "static/media/gitHub.png": "/static/media/gitHub.7e186b25bca094145827.png",
+    "static/media/mangoDB.png": "/static/media/mangoDB.2178943141ba7e7fae4e.png",
+    "static/media/bootstrap.webP": "/static/media/bootstrap.f1b405bde3068d42c429.webP",
+    "index.html": "/index.html",
+    "static/media/react.webP": "/static/media/react.a8065ae7ec14e680353e.webP",
+    "static/media/JS.webP": "/static/media/JS.327b62989575c6e0b7ae.webP",
+    "static/media/css.webP": "/static/media/css.d85a823cbc877ec9001b.webP",
+    "static/media/html.webP": "/static/media/html.bd92725e45a19303f2fa.webP",
+    "static/media/Git.webP": "/static/media/Git.0fa90bca135a5e2acb88.webP",
+    "static/media/typescript.webP": "/static/media/typescript.04b7f02dbed234f1c606.webP",
+    "main.a90ea979.css.map": "/static/css/main.a90ea979.css.map",
+    "main.709d70d6.js.map": "/static/js/main.709d70d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a90ea979.css",
+    "static/js/main.709d70d6.js"
+  ]
+}
