@@ -8,12 +8,12 @@
   "description": "Full-Stack Web Developer with experience in React.js, Node.js, and MongoDB",
   "icons": [
     {
-      "src": "./img/main.png",
+      "src": "https://ahmedosama.dengatech.com/img/main.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "./img/main.png",
+      "src": "https://ahmedosama.dengatech.com/img/main.png",
       "type": "image/png",
       "sizes": "512x512"
     }
