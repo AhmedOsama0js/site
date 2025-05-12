@@ -13,8 +13,8 @@ app.use("/api", usersRoute);
 
 app.use(express.static(path.join(__dirname, "public", "build")));
 
-app.get("/", (req, res) => {
-  res.sendFile(path.join(__dirname, "public", "build/index.html"));
+app.get("*", (req, res) => {
+  res.sendFile(path.resolve(__dirname, "public", "build", "index.html"));
 });
 
 // 400 error
