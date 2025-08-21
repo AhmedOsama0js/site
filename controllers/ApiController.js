@@ -91,8 +91,20 @@ const getPlaylistItems = catchAsync(async (req, res, next) => {
   });
 });
 
+const packages = catchAsync(async (req, res, next) => {
+  const { projectName, repo } = req.body;
+
+  console.log({ projectName, repo });
+
+  res.status(200).json({
+    allowed: true,
+    message: "✅ Temporary access granted",
+  });
+});
+
 module.exports = {
   sendMessageTelegram,
   getYoutubePlayList,
   getPlaylistItems,
+  packages,
 };
